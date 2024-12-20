@@ -18,6 +18,7 @@ industry_researcher_task = Task(
     ),
     tools=[industry_research_tool],
     agent=industry_researcher,
+    output_file='genai_solutions_proposal.md'
 )
 
 # Use Case Generator Task
@@ -34,6 +35,7 @@ use_case_generator_task = Task(
     ),
     tools=[use_case_analysis_tool],
     agent=use_case_generator,
+    output_file='genai_solutions_proposal.md'
 )
 
 # Dataset Search Task
@@ -50,6 +52,7 @@ dataset_search_task = Task(
     ),
     tools=[dataset_search_tool],
     agent=resource_collector,
+    output_file='genai_solutions_proposal.md'
 )
 
 # GenAI Solution Task
