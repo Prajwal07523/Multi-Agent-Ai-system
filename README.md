@@ -11,4 +11,4 @@ python crew_module.py
 ```
 
 
-![Alt text](https://github.com/Prajwal07523/Multi-Agent-Ai-system/blob/ea08a39fe815ea721e8d19150d812bebfe99df5c/Brown%20Pastel%20Flowchart%20Diagram%20Graph%20Template.png)
+![Alt text](https://github.com/Prajwal07523/Multi-Agent-Ai-system/blob/913403edc6f7bb6a33cb5360f34e0abdcc60d945/flowchart.jpg)
